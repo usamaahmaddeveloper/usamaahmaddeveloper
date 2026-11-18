@@ -5,17 +5,6 @@
 
 <a id="top"></a>
 
-<div align="center">
-
-  <!-- Coding-style sketch + ASCII code-line portrait -->
-  <img
-    src="./assets/profile-code-sketch.png"
-    alt="Coding-style sketch of Usama Ahmad Developer"
-    width="300"
-  />
-
-</div>
-
 ```ts
 // profile.sketch.ts — Usama Ahmad Developer | he/him
                                           ....
