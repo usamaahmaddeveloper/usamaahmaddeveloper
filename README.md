@@ -7,11 +7,67 @@
 
 <div align="center">
 
+  <!-- Coding-style sketch + ASCII code-line portrait -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:0D1117,100:1F6FEB&height=260&section=header&text=Usama%20Ahmad%20Developer&fontSize=40&fontColor=E6EDF3&fontAlignY=32&desc=Full-Stack%20Engineer%20%C2%B7%20Odoo%20%26%20AI%20Systems%20%C2%B7%20he%2Fhim&descSize=16&descAlignY=52&animation=fadeIn"
-    alt="Usama Ahmad Developer hero banner"
-    width="100%"
+    src="./assets/profile-code-sketch.png"
+    alt="Coding-style sketch of Usama Ahmad Developer"
+    width="300"
   />
+
+</div>
+
+```ts
+// profile.sketch.ts — Usama Ahmad Developer | he/him
+                                          ....
+                                     .:-++++++++=-.
+                                  -=-===----=---=**+.
+                                :+----===+*#**#*+=+##-
+                               :*=++===-+++#*-::=+#==%+
+                             :=+##@%%#*++*+=.... .-*++%=
+                             -**##*=:.:-+#*+*++++++++=##.
+                             :*-#=        ...     :+*=#%:
+                             :==-                   :%@#.
+                              -.                     -+=
+                              :.   .:=-..    .=+=-:   =:
+                              ::  .:-=+-.. .:=+===-. .+.
+                             -::  .--*==::..=+=++-- ..-:-
+                            .:..    ......  ::::..    ::-
+                             .::             .        -:
+                              .:        ..  ...      :-
+                               :.       :-.:*:       -.
+                                .     .:::=:-:-:    :
+                                 :   .=-.:.:..-=:  ::
+                                -:.  ..  .=+.     ::
+                               -*:.:..    .-   :-::
+                             :- :+ .-=+=-=::-=+*=:.
+                        .::+-:   -+  -=++*#***=. --+*=:.
+               .......:.. :%=     -#   :-.      .*..%@###+=::...
+           ::.....        .@#::  :.:#.   :-.    -#  -#=+==+=:-:-+-
+          -:      .        #*++=.:  :#     ...  ==:::+ ++-:.:   .#+
+         -:       .-      .*++ :.    =*.     :..:.::=%. :-==.: .:-%+
+        .=:----:.  .=      *-#=       ++      -:   .:** :: += .. :+@:
+        :-. .:=+*+: :=  .. -..++-   .  %-     .      .%-   .#- . .-*#
+        ::   .--=++::#=  .     :+-.. . -%.            :#   .-=   .:-@=
+        .:        -#+.+*   ::.   =-:    +*             +*  . :.  .=-%%:
+         :        :=+  :*.  ..    -+:.  .%-             #-   -+ .. :.#%
+         :.  .::--+*+   .+.  .-    :+::  -%             -#. . *:.:-+.:%+
+         ...  ..--==+*-   =:  .:    +++:  #+             *- . +=  #*# -@:
+        .-. .     ..:=*=:  =:. .:  .-+++:.=@.            -*: .-* :+++  ##-
+         ::.. .      -=*-   ....:. .+ -*: .%+             +* --* :*+.  -%#
+         -:        .::::-=.      .  :  ::  +%.            :%=::*..*:    :%*
+         :            .  --             :.  %+             %*::-  -      :@=
+         :.            .:.-.                +%             #+ :.         .#*=.
+         .:           .:::=-.               .@-            +# :+.         .-#%
+          -.       :--::::--+-               #*            =%-.=.           :@:
+          .-     :=-: :. :--=*.              =%.          :*+  ..            #%:
+           :.    :==-=+=**+*#%#=              %+         .+%. .=*-            =#*.
+           .=  .:*-.:-=*+:=+=-:=*+:           +%           *+ :#*%*            =*#
+            :: .=.  -:-- :.      :-+=:        :@:          #*  ##.%+           .=%*
+=============+====*+#-+-------=----=*%=        %*-========**%: -@=+@-            -##-=
+==============---::::::------------::.         .-=========-:.   :==:               -==
+```
+
+<div align="center">
 
   <a href="https://github.com/usamaahmaddeveloper">
     <img
@@ -320,18 +376,10 @@ My engineering style is practical and production-first: clean module boundaries,
   <br/>
 
   <img
-    src="https://github-profile-trophy.vercel.app/?username=usamaahmaddeveloper&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10"
+    src="https://github-profile-repo.vercel.app/?username=usamaahmaddeveloper&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10"
     alt="GitHub trophies for Usama Ahmad Developer"
   />
 
-  <br/>
-
-  <!-- Contribution snake — appears after GitHub Actions generate the SVG on first run -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usamaahmaddeveloper/usamaahmaddeveloper/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usamaahmaddeveloper/usamaahmaddeveloper/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/usamaahmaddeveloper/usamaahmaddeveloper/output/github-contribution-grid-snake.svg" />
-  </picture>
 
 </div>
 
@@ -378,8 +426,6 @@ Open to    ▸  Full-stack / Odoo / e-commerce / AI-platform engineering roles
 
 </div>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:0D1117,100:1F6FEB&height=140&section=footer&text=Ship%20reliable%20software.%20Keep%20learning.&fontSize=16&fontColor=8B949E&fontAlignY=70"
-  alt="Footer wave"
-  width="100%"
-/>
+<div align="center">
+  <sub>Ship reliable software. Keep learning.</sub>
+</div>
